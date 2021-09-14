@@ -55,7 +55,7 @@ election, under the same terms, membership body, and electorate.
 | Keith Moyer | @KeithMoyer | @Keith Moyer | Google |
 | Aeva Black | @AevaOnline | @Aeva | Microsoft |
 | Shanwei Cen | @shnwc | @Shanwei | Intel |
-| Mike Bursell | @MikeCamel | @Mike Bursell | Red Hat |
+| Mike Bursell | @MikeCamel | @Mike Bursell |   |
 
 
 ## Evolving the Governance
